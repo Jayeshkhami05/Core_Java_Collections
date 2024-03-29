@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jayes
+ *
+ */
+module collections {
+}
